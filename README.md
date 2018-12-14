@@ -6,3 +6,4 @@ Bob and Carol’s team had worked in parallel with Alice and Ted’s then both t
 Ultimately, we had to resolve conflicts manually, which would not scale up in a larger project.
 This could have been prevented by clear communication on when a team or individual ACPs, then everyone on the project can do a pull request to stay up to date. It can be easier when people are not working on the same lines of code to avoid these conflicts. For our project, I propose that whenever one of us wants to push to master, everyone says “got it (or whatever), then we all pull to our local directories.
 
+
